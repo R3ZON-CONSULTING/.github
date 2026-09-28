@@ -1,6 +1,14 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/header.svg" alt="R3ZON" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080814,45:4F46E5,75:22D3EE,100:E86CFF&text=R3ZON&fontColor=ffffff&fontSize=78&fontAlignY=38&desc=Desarrollo%20·%20Automatización%20·%20IA%20·%20Bilbao&descAlignY=60&descSize=18&animation=fadeIn" alt="R3ZON" width="100%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://docs.r3zon.com/img/empresa/R3ZON-lockup-horizontal-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://docs.r3zon.com/img/empresa/R3ZON-lockup-horizontal-black.svg">
+    <img alt="R3ZON" src="https://docs.r3zon.com/img/empresa/R3ZON-lockup-horizontal-white.svg" height="48">
+  </picture>
 </p>
 
 <p align="center">
@@ -116,4 +124,4 @@ Chatbots con LLMs, RAG y bases vectoriales, análisis predictivo y fine-tuning d
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E86CFF,35:22D3EE,70:4F46E5,100:080814" width="100%"/>
 </p>
 
-<p align="center"><sub>© 2026 R3ZON · Bilbao, Euskadi</sub></p>
+<p align="center"><sub>© 2026 R3ZON CONSULTING SL · Bilbao, Euskadi</sub></p>
